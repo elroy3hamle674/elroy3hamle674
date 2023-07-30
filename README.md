@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @elroy3hamle674
+- 👀 I’m interested in Backend developer. I’m currently learning Django.
+- 🌱 Committed to creating robust, efficient server-side solutions.
